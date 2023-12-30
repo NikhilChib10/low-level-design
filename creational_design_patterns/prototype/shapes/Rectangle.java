@@ -1,4 +1,4 @@
-package creational_design_patterns.prototype.models;
+package creational_design_patterns.prototype.shapes;
 
 public class Rectangle extends Shape {
     public int width;

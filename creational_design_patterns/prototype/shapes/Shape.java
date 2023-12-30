@@ -1,4 +1,4 @@
-package creational_design_patterns.prototype.models;
+package creational_design_patterns.prototype.shapes;
 
 import java.util.Objects;
 
